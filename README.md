@@ -17,19 +17,6 @@ Selamat datang di repositori **Check Kodam**! 🎉
 
 Konsep kodam berasal dari tradisi dan kepercayaan lokal yang mempercayai bahwa setiap benda atau makhluk memiliki roh atau jiwa. Kodam sering dianggap sebagai bagian dari warisan spiritual atau diperoleh melalui praktik spiritual tertentu.
 
-## Fitur Utama
-
-- **Interaktif dan Mudah Digunakan**: Masukkan nama Anda dan dapatkan kodam acak.
-- **Daftar Kodam yang Kaya**: Lebih dari 100 pilihan kodam untuk mengejutkan Anda!
-- **Respon Cepat**: Cek kodam Anda dalam sekejap dan coba lagi dengan mudah.
-- **Sumber Terbuka**: Kode ini bebas digunakan dan dimodifikasi sesuai keinginan Anda.
-
-## Demo
-
-Lihat cara kerjanya dengan menonton video demo singkat berikut:
-
-[![Demo Video](https://img.youtube.com/vi/DEMO_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=DEMO_VIDEO_ID)
-
 ## Cara Instalasi
 
 Pastikan Anda memiliki Python 3.x terinstal di sistem Anda. Ikuti langkah-langkah berikut untuk menjalankan skrip ini di komputer Anda:
